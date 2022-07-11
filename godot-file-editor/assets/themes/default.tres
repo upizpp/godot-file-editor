@@ -1,0 +1,17 @@
+[gd_resource type="Theme" load_steps=2 format=2]
+
+[ext_resource path="res://addons/godot-file-editor/assets/fonts/default_font.tres" type="DynamicFont" id=1]
+
+[resource]
+default_font = ExtResource( 1 )
+TextEdit/colors/background_color = Color( 0.12549, 0.145098, 0.192157, 1 )
+TextEdit/colors/current_line_color = Color( 0.188235, 0.203922, 0.25098, 1 )
+TextEdit/colors/font_color = Color( 0.8, 0.807843, 0.827451, 1 )
+TextEdit/colors/font_color_selected = Color( 0.8, 0.807843, 0.827451, 1 )
+TextEdit/colors/function_color = Color( 0.309804, 0.611765, 0.87451, 1 )
+TextEdit/colors/line_number_color = Color( 0.8, 0.807843, 0.827451, 0.501961 )
+TextEdit/colors/member_variable_color = Color( 0.658824, 0.784314, 0.894118, 1 )
+TextEdit/colors/number_color = Color( 0.619608, 0.984314, 0.866667, 1 )
+TextEdit/colors/selection_color = Color( 0.223529, 0.309804, 0.443137, 1 )
+TextEdit/colors/symbol_color = Color( 0.670588, 0.784314, 1, 1 )
+TextEdit/colors/word_highlighted_color = Color( 0.8, 0.901961, 0.901961, 0.14902 )
